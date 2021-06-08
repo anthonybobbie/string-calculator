@@ -2,7 +2,7 @@
 
 ## StringCalculator
 
-Solution contains the original text solution. Run the test to show calculator in action.
+Solution contains the original test solution. Run the test to show calculator in action.
 
 ## TheVirtualApi
 
