@@ -6,5 +6,5 @@ Solution contains the original test solution. Run the test to show calculator in
 
 ## TheVirtualApi
 
-Is and extra solution I added to show Design Patterns i recently created for an employee. I employed layered architecture to allow application
+Is and extra solution I added to show Design Patterns i recently created for an api. I employed layered architecture to allow application
 to scale. I used repository pattern to allow for Unit testing
